@@ -1,6 +1,6 @@
 /*
 
- Linked List Operations!!
+ All Linked List Operations!!
 
 */
 
