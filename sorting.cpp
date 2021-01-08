@@ -181,7 +181,10 @@ int main()
 
     vector<int> unsorted_list {15,5,4,3,11,16,19,20,-1};
     vector<int> sorted_list;
-
+    
+    //bubbleSort = bubbleSort(unsorted_list)
+    //selectionSort = selectionSort(unsorted_list)
+    //insertionSort = insertionSort(unsorted_list);
     sorted_list = mergeSort(unsorted_list);
 
     for(auto itr :sorted_list)
